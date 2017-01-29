@@ -28,6 +28,7 @@ class Company extends Base
         'responsible_user_id',
         'linked_leads_id',
         'tags',
+        'linked_company_id',
     ];
 
     /**
